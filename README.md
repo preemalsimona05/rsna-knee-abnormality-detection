@@ -1,1 +1,0 @@
-# rsna-knee-abnormality-detection
