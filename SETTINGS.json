@@ -1,0 +1,12 @@
+{
+  "RAW_DATA_DIR": "/kaggle/input/rsna-knee-abnormality-detection",
+  "CLEAN_DATA_DIR": "./data/processed_384",
+  "TRAIN_DATA_CLEAN_PATH": "./data/processed_384/train_metadata.parquet",
+  "TEST_DATA_CLEAN_PATH": "/kaggle/input/rsna-knee-abnormality-detection/test.csv",
+  "TEST_SERIES_PATH": "/kaggle/input/rsna-knee-abnormality-detection/test_series.csv",
+  "WHEEL_DIR": "/kaggle/input/rsna-offline-wheels",
+  "MODEL_DIR": "./models/caformer_s36_series_gru",
+  "CHECKPOINT_DIR": "./models/checkpoints",
+  "SUBMISSION_DIR": "./submissions",
+  "SUBMISSION_FILE": "./submissions/submission.csv"
+}
